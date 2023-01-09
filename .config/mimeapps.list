@@ -1,0 +1,5 @@
+[Added Associations]
+image/jpeg=mupdf.desktop;org.pwmt.zathura-pdf-mupdf.desktop;org.pwmt.zathura.desktop;nitrogen.desktop;
+application/json=nvim.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+application/epub+zip=org.pwmt.zathura-pdf-mupdf.desktop;
