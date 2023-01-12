@@ -21,3 +21,5 @@ My dotfile repository containing everything needed for my i3 setup : i3-gaps, ro
 ## Usage & Installation
 At the moment, the best way to copy my files is manually. I am currently switching my windows manager and will be creating a rice that will be fully install-able through a script. 
 
+## My current rice
+![image](https://user-images.githubusercontent.com/52933202/211984305-db168d57-9db6-4113-99c7-61f155c47755.png)
